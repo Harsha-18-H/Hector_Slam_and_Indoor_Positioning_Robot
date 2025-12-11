@@ -24,7 +24,6 @@ The README includes exact tested commands, troubleshooting guides, and recommend
 - [Recording & Playing ROS Bags](#recording--playing-ros-bags)
 - [Troubleshooting](#troubleshooting)
 - [Results & Visuals](#results--visuals)
-- [Roadmap](#roadmap)
 - [Contact](#contact)
 
 ---
@@ -237,21 +236,6 @@ rosrun map_server map_saver -f results/my_map
 ---
 
 ## Results & Visuals (Recommended)
-Add the following assets into the repo (suggested paths):
-- results/final_map.png — final saved map image
-- results/rviz_screenshot.png — RViz screenshot showing map + robot
-- results/mapping_progress.gif — animated mapping progress
-
-Save maps to results/ using map_saver as shown above.
-
----
-
-## Roadmap
-- Add a run_demo.sh auto-launch script
-- Add pre-recorded rosbag files for demo runs
-- Add .rviz config for quick visualization
-- Add a Dockerfile for reproducible environment
-- Upload a demo video in /docs or YouTube
 
 ---
 
