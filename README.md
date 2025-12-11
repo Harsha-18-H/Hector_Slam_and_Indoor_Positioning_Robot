@@ -25,7 +25,6 @@ The README includes exact tested commands, troubleshooting guides, and recommend
 - [Troubleshooting](#troubleshooting)
 - [Results & Visuals](#results--visuals)
 - [Roadmap](#roadmap)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -253,12 +252,6 @@ Save maps to results/ using map_saver as shown above.
 - Add .rviz config for quick visualization
 - Add a Dockerfile for reproducible environment
 - Upload a demo video in /docs or YouTube
-
----
-
-## License
-Recommended: MIT License  
-(Add a LICENSE file to the repository root)
 
 ---
 
